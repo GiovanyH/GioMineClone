@@ -1,0 +1,3 @@
+cd build
+mineclone
+cd ..
