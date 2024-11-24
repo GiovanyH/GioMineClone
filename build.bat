@@ -1,1 +1,1 @@
-g++ -I libs/include src/main.cpp -o build/mineclone
+g++ -I libs/include -L libs/lib/* src/main.cpp -o build/mineclone
